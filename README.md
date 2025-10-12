@@ -1,4 +1,4 @@
-# <img src="assets/avocado.png" alt="AVoCaDO icon" width="40px"> AVoCaDO: An <u>A</u>udio<u>V</u>isual Vide<u>o</u> <u>Ca</u>ptioner <u>D</u>riven by Temporal <u>O</u>rchestration
+# <img src="assets/avocado.ico" alt="AVoCaDO icon" width="20px"> AVoCaDO: An <u>A</u>udio<u>V</u>isual Vide<u>o</u> <u>Ca</u>ptioner <u>D</u>riven by Temporal <u>O</u>rchestration
 
 <p align="left">
   <a href="https://avocado-captioner.github.io/"><img src="https://img.shields.io/badge/Project%20webpage-558b2f?style=for-the-badge"></a>
