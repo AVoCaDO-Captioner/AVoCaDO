@@ -3,7 +3,7 @@
 <p align="left">
   <a href="https://avocado-captioner.github.io/"><img src="https://img.shields.io/badge/Project%20webpage-558b2f?style=for-the-badge"></a>
   <a href="https://huggingface.co/AVoCaDO-Captioner/AVoCaDO"><img src="https://img.shields.io/badge/Model-db8905?style=for-the-badge"></a>
-  <a href="https://arxiv.org/abs/todo"><img src="https://img.shields.io/badge/arXiv-red?style=for-the-badge"></a>
+  <a href="https://arxiv.org/abs/2510.10395"><img src="https://img.shields.io/badge/arXiv-red?style=for-the-badge"></a>
 </p>
 
 ---
