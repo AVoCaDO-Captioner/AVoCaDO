@@ -98,13 +98,10 @@ We provide evaluation scripts for all evaluated benchmarks in our paper.
 If you find our work helpful for your research, please consider giving a star ⭐ and citing our paper. We appreciate your support!
 
 ```bibtex
-@misc{chen2025avocadoaudiovisualvideocaptioner,
-      title={AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration}, 
-      author={Xinlong Chen and Yue Ding and Weihong Lin and Jingyun Hua and Linli Yao and Yang Shi and Bozhou Li and Yuanxing Zhang and Qiang Liu and Pengfei Wan and Liang Wang and Tieniu Tan},
-      year={2025},
-      eprint={2510.10395},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2510.10395}, 
+@article{chen2025avocado,
+  title={AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration},
+  author={Chen, Xinlong and Ding, Yue and Lin, Weihong and Hua, Jingyun and Yao, Linli and Shi, Yang and Li, Bozhou and Zhang, Yuanxing and Liu, Qiang and Wan, Pengfei and others},
+  journal={arXiv preprint arXiv:2510.10395},
+  year={2025}
 }
 ```
